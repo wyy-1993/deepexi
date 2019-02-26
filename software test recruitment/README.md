@@ -4,7 +4,7 @@
 
 #### 题目链接：
 
-https://github.com/wyy-1993/deepexi/blob/master/software%20test%20recruitment/Interview%20Questions.md
+https://github.com/wyy-1993/deepexi/blob/master/software%20test%20recruitment/interview%20questions
 
 #### 要求：
 
@@ -14,9 +14,9 @@ https://github.com/wyy-1993/deepexi/blob/master/software%20test%20recruitment/In
 
 * 完成后，则通过了初步的筛选，可以发简历+面试题到 wajudy@dingtalk.com
 
-    --- 邮件命名规范：姓名+职位
+  --- 邮件命名规范：姓名+职位
 
-    --- 内容包含：期望工作地点、可入职时间、简历、初始题
+  --- 内容包含：期望工作地点、可入职时间、简历、初始题
 
 ### 公司介绍：
 
@@ -38,8 +38,6 @@ https://github.com/wyy-1993/deepexi/blob/master/software%20test%20recruitment/In
 - 高于业界水平的待遇，12 - 15 个月
 - 试用期：2个月，薪资100%
 - 福利：下午茶，每周之星(200元)，团建(人均300元), 项目奖金，年终奖
-- 弹性工作： 早上10:00点上班，双休
-- 双屏工作
+- 弹性工作： 早上10:00点上班，下午7:30下班，双休
 - 免费读书计划
-- 长期培训课程
-- 长期培训课程
+- 定期分享课程
