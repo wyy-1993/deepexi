@@ -4,7 +4,7 @@
 
 #### 题目链接：
 
-https://github.com/wyy-1993/deepexi/blob/master/software%20test%20recruitment/interview%20questions
+https://github.com/wyy-1993/deepexi/blob/master/software%20test%20recruitment/Interview%20Questions.md
 
 #### 要求：
 
@@ -41,3 +41,11 @@ https://github.com/wyy-1993/deepexi/blob/master/software%20test%20recruitment/in
 - 弹性工作： 早上10:00点上班，下午7:30下班，双休
 - 免费读书计划
 - 定期分享课程
+
+### 团队风采
+
+* 公司活动
+
+
+
+* 团队分享
