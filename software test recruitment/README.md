@@ -4,27 +4,19 @@
 
 #### 题目链接：
 
-https://github.com/wyy-1993/deepexi/blob/master/software%20test%20recruitment/interview%20questions
+https://github.com/wyy-1993/deepexi/blob/master/software%20test%20recruitment/Interview%20Questions.md
 
 #### 要求：
 
-<<<<<<< HEAD
 * 通过题目链接获取题目信息
 
 * 在1天内完成
 
 * 完成后，则通过了初步的筛选，可以发简历+面试题到 wajudy@dingtalk.com
-=======
-- 通过题目链接获取题目信息
 
-- 在1天内完成
+    --- 邮件命名规范：姓名+职位
 
-- 完成后，则通过了初步的筛选，可以发简历+面试题到 wajudy@dingtalk.com
->>>>>>> fa3ba71d0ca3a4ad04f94b481dc2ac22cf13176d
-
-  --- 邮件命名规范：姓名+职位
-
-  --- 内容包含：期望工作地点、可入职时间、简历、初始题
+    --- 内容包含：期望工作地点、可入职时间、简历、初始题
 
 ### 公司介绍：
 
@@ -49,8 +41,5 @@ https://github.com/wyy-1993/deepexi/blob/master/software%20test%20recruitment/in
 - 弹性工作： 早上10:00点上班，双休
 - 双屏工作
 - 免费读书计划
-<<<<<<< HEAD
 - 长期培训课程
-=======
 - 长期培训课程
->>>>>>> fa3ba71d0ca3a4ad04f94b481dc2ac22cf13176d
